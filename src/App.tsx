@@ -1,5 +1,9 @@
 import React from 'react';
-
+import {
+  Route,
+  Link,
+  Routes
+} from "react-router-dom";
 import './App.css';
 
 function App() {
@@ -18,6 +22,14 @@ function App() {
         >
           Learn PWA
         </a>
+        <Routes>
+          <Route path="/">
+            <h1>HELLO WORLD</h1>
+          </Route>
+          <Route path="/test">
+            <h1>HELLO WORLD</h1>
+          </Route>
+        </Routes>
       </header>
     </div>
   );
