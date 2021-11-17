@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PresPwa/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/PresPwa/static/js/main.56c3bfec.chunk.js",
+    "main.js.map": "/PresPwa/static/js/main.56c3bfec.chunk.js.map",
+    "runtime-main.js": "/PresPwa/static/js/runtime-main.2bf39238.js",
+    "runtime-main.js.map": "/PresPwa/static/js/runtime-main.2bf39238.js.map",
+    "static/js/2.67b926d1.chunk.js": "/PresPwa/static/js/2.67b926d1.chunk.js",
+    "static/js/2.67b926d1.chunk.js.map": "/PresPwa/static/js/2.67b926d1.chunk.js.map",
+    "static/js/3.6a9e67a3.chunk.js": "/PresPwa/static/js/3.6a9e67a3.chunk.js",
+    "static/js/3.6a9e67a3.chunk.js.map": "/PresPwa/static/js/3.6a9e67a3.chunk.js.map",
+    "index.html": "/PresPwa/index.html",
+    "service-worker.js": "/PresPwa/service-worker.js",
+    "service-worker.js.map": "/PresPwa/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/PresPwa/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.67b926d1.chunk.js.LICENSE.txt": "/PresPwa/static/js/2.67b926d1.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/PresPwa/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bf39238.js",
+    "static/js/2.67b926d1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.56c3bfec.chunk.js"
+  ]
+}
